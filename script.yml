@@ -1,4 +1,10 @@
-name: 🔄 Update README with Onefetch
+name: 'Terminal Documentation'
+description: 'Gera documentação automaticamente'
+author: 'miojo-dev'
+
+branding:
+  icon: 'book'
+  color: 'blue'
 
 on:
   push:

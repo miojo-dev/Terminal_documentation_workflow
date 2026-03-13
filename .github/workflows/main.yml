@@ -18,9 +18,3 @@ jobs:
 
       - name: Fetch-Docs-CLI
         uses: miojo-dev/Fetch-Docs-CLI@v1.0.2-language_fix
-          
-
-      - name: Commit e Push
-        run: |
-          git commit -m "docs: atualiza estatísticas do repo via onefetch [skip ci]"
-          git push

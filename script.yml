@@ -1,5 +1,5 @@
 name: 'Terminal Documentation'
-description: 'Gera documentação automaticamente'
+description: 'Generates a fun decumentation on CLI style'
 author: 'miojo-dev'
 
 branding:
